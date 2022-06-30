@@ -1,0 +1,12 @@
+.login{
+    background-color: rgb(231, 231, 231);
+    width: 20rem;
+    padding: 5rem;
+    margin: 10rem auto;
+    text-align: center;
+    border: 5px solid #adadad;
+}
+
+.link1{
+    text-align: right;
+}
